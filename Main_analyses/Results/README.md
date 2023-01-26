@@ -1,4 +1,4 @@
-This folder contains the primary results of the study, as well as the estimates of the true RD within each caliper width.
+This folder contains the primary results of the study.
 
 "Withpred" files contain the number of matches found within each cohort as well as the PS within each level of exposure.
 "Merged" files include the average PS overall and for each level of treatment, the standard deviation of the PS overall, and its the standardized mean difference.
